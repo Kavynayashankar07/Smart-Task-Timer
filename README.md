@@ -68,11 +68,11 @@ Follow the steps below to set up the project locally:
   
 git clone https://github.com/yourusername/smart-task-timer.git
 
-2. Navigate into the project folder
+### 2. Navigate into the project folder
 
 cd smart-task-timer
 
-3. Install dependencies
+### 3. Install dependencies
 
 Make sure you have Node.js (v16 or higher) and npm or yarn installed.
 
@@ -85,7 +85,7 @@ Or using yarn:
 
 yarn install
 
-4. Set up environment variables
+### 4. Set up environment variables
 
 Create a .env file in the project root and add the following:
 
